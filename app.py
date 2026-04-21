@@ -178,7 +178,7 @@ div[data-testid="stHorizontalBlock"] > div:nth-child(3) button {
     width: 40px !important;
     min-width: 40px !important;
     height: 40px !important;
-    margin-top: 34px !important;
+    margin-top: 30px !important;
     border-radius: 14px !important;
     padding: 0 !important;
     font-size: 1.18rem !important;
