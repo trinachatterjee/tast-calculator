@@ -175,20 +175,20 @@ div[data-testid="stTextInput"] input:focus {
 
 div[data-testid="stHorizontalBlock"] > div:nth-child(2) button,
 div[data-testid="stHorizontalBlock"] > div:nth-child(3) button {
-    width: 42px !important;
-    min-width: 42px !important;
-    height: 42px !important;
-    margin-top: 34px !important;
+    width: 40px !important;
+    min-width: 40px !important;
+    height: 40px !important;
+    margin-top: 38px !important;
     border-radius: 14px !important;
     padding: 0 !important;
-    font-size: 1.3rem !important;
+    font-size: 1.18rem !important;
     font-weight: 800 !important;
     line-height: 1 !important;
-    box-shadow: 0 8px 20px rgba(15,118,110,0.16) !important;
+    box-shadow: 0 8px 18px rgba(15,118,110,0.14) !important;
 }
 
 div[data-testid="stHorizontalBlock"] > div:nth-child(2) {
-    margin-right: 8px !important;
+    margin-right: 6px !important;
 }
 
 .result-card {
