@@ -307,7 +307,6 @@ st.markdown("""
     <div class="app-title">TAST Calculator</div>
 </div>
 <div class="app-subtitle">Enter AST and TSI score to calculate the predicted TAST value.</div>
-<div class="small-note"><strong>Research use only.</strong> This interface is not a standalone clinical decision-making interface.</div>
 """, unsafe_allow_html=True)
 
 col1, col2 = st.columns(2, gap="large")
